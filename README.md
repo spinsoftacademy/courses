@@ -7,6 +7,8 @@
 | SS001 | Programming Fundamentals | 16 hrs |
 | SS002 | SQL Fundamentals | 8 hrs | 
 | SS003 | HTML5 Fundamentals | 8 hrs | 
+| SS004 | Git | 8 hrs | 
+| SS005 | Agile/Scrum | 8 hrs | 
 
 #### Beginner Courses ( Level 2)
 
