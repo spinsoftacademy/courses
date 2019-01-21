@@ -60,7 +60,7 @@
 | SS061 | Jenkins | 16 hrs | 
 | SS062 | Docker | 16 hrs |
 
-#### AWS ( Level 7)
+#### AWS ( Level 8)
 
 | Course Code | Course Name  | Hours  |
 | ------- | --- | --- |
