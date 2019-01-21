@@ -21,6 +21,8 @@
 
 #### Code Quality ( Level 3)
 
+| Course Code | Course Name  | Hours  |
+| ------- | --- | --- |
 | SS021 | JUnit | 8 hrs | 
 | SS022 | Code Coverage | 8 hrs |  
 | SS023 | SonarQube | 8 hrs | 
@@ -58,4 +60,8 @@
 | SS061 | Jenkins | 16 hrs | 
 | SS062 | Docker | 16 hrs |
 
+#### AWS ( Level 7)
 
+| Course Code | Course Name  | Hours  |
+| ------- | --- | --- |
+| SS071 | AWS Services | 16 hrs | 
