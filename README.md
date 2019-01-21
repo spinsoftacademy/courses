@@ -37,10 +37,15 @@
 | ------- | --- | --- |
 | SS031 | Spring Boot(MVC)  | 40 hrs |
 | SS032 | Spring Security | 16 hrs |
-| SS033 | Hibernate/JPA | 16 hrs | 
-| SS034 | Spring Data | 16 hrs |
 | SS035 | Spring REST | 16 hrs | 
 | SS036 | Testing Tools: Postman | 8 hrs | 
 
+#### Hibernate/JPA ( Level 5)
+
+| Course Code | Course Name  | Hours  |
+| ------- | --- | --- |
+| SS041 | Hibernate/JPA | 16 hrs | 
+| SS042 | Spring Data | 16 hrs |
+| SS043 | Hibernate Caching | 8 hrs |
 
 
