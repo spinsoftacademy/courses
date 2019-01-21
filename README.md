@@ -18,34 +18,44 @@
 | SS012 | Collections | 16 hrs |
 | SS013 | Core Java | 8 hrs |
 | SS014 | Build Tool: Maven/Gradle | 8 hrs | 
-| SS015 | JUnit | 8 hrs | 
-| SS016 | Code Coverage | 8 hrs |  
-| SS017 | SonarQube | 8 hrs | 
 
-#### Web Courses ( Level 3)
+#### Code Quality ( Level 3)
 
-| Course Code | Course Name  | Hours  |
-| ------- | --- | --- |
-| SS021 | Servlet 3.1 | 16 hrs |
-| SS022 | JSP | 8 hrs | 
-| SS023 | JSTL | 8 hrs | 
-| SS024 | Web Servers: Tomcat | 8 hrs |
+| SS021 | JUnit | 8 hrs | 
+| SS022 | Code Coverage | 8 hrs |  
+| SS023 | SonarQube | 8 hrs | 
 
-#### Enterprise Programming ( Level 4)
+#### Web Courses ( Level 4)
 
 | Course Code | Course Name  | Hours  |
 | ------- | --- | --- |
-| SS031 | Spring Boot(MVC)  | 40 hrs |
-| SS032 | Spring Security | 16 hrs |
-| SS035 | Spring REST | 16 hrs | 
-| SS036 | Testing Tools: Postman | 8 hrs | 
+| SS031 | Servlet 3.1 | 16 hrs |
+| SS032 | JSP | 8 hrs | 
+| SS033 | JSTL | 8 hrs | 
+| SS034 | Web Servers: Tomcat | 8 hrs |
 
-#### Hibernate/JPA ( Level 5)
+#### Enterprise Programming ( Level 5)
 
 | Course Code | Course Name  | Hours  |
 | ------- | --- | --- |
-| SS041 | Hibernate/JPA | 16 hrs | 
-| SS042 | Spring Data | 16 hrs |
-| SS043 | Hibernate Caching | 8 hrs |
+| SS041 | Spring Boot(MVC)  | 40 hrs |
+| SS042 | Spring Security | 16 hrs |
+| SS043 | Spring REST | 16 hrs | 
+| SS044 | Testing Tools: Postman | 8 hrs | 
+
+#### Hibernate/JPA ( Level 6)
+
+| Course Code | Course Name  | Hours  |
+| ------- | --- | --- |
+| SS051 | Hibernate/JPA | 16 hrs | 
+| SS052 | Spring Data | 16 hrs |
+| SS053 | Hibernate Caching | 8 hrs |
+
+#### Continuous Integration(CI)/ Continuous Deployment (CD) ( Level 7)
+
+| Course Code | Course Name  | Hours  |
+| ------- | --- | --- |
+| SS061 | Jenkins | 16 hrs | 
+| SS062 | Docker | 16 hrs |
 
 
